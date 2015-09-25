@@ -1,0 +1,63 @@
+html {
+  background-color: white;
+  color: #00688B;
+}
+
+#propic {
+  height: 30%;
+  width: 25%;
+  right: 0.5%;
+  z-index: 1;
+  position: absolute;
+  margin-left: 6px;
+  margin-right: 10px;
+  -ms-tranform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+      transform: rotate(-3deg);
+  -webkit-transform: rotate(-3deg);
+}
+
+#block {
+  float: left;
+}
+
+#email {
+  color: #9AC0CD;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.lessmargin {
+  margin: 2px;
+}
+
+hr {
+  background-color: #2f4f4f;
+  border: 0 none;
+  height: 5px;
+  width: 100%;
+}
+
+#upperdiv {
+  background-color: white;
+}
+
+.totheleft {
+  font-style: italic;
+  float: left;
+  padding-right: 25px;
+  border-right: 2px solid #2f4f4f;
+  line-height: 80px;
+}
+
+.totheright {
+  float: left;
+  padding-left: 25px;
+  border-left-color: blue;
+  border-left: 2px;
+  display: inline-block;
+}
+
+ul {
+  padding-left: 18px;
+}
